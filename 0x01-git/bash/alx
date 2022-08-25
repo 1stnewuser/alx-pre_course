@@ -1,2 +1,6 @@
 #!/bin/bash
-ALX shhool is so cool
+<<<<<<< HEAD
+ALX Shool
+=======
+ALX School
+>>>>>>> update_script
